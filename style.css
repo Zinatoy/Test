@@ -1,0 +1,42 @@
+.back_p{
+    background-color: #D9EDF7;
+    padding: 10px;
+    padding-left: 150px;
+    text-align:left;
+    margin-top: -7px;
+    font-family: 'Montserrat', sans-serif;
+    box-shadow: 0px 1px 1px black, 0 0 1px rgb(0, 0, 0); /* Параметры тени */
+}
+.back_p a{
+    text-decoration: none; /*убираем нижнее подчеркивание*/
+    font-weight: bold;
+}
+.header a{
+    padding-top: 5px;
+    text-decoration: none;
+    color: #777777;
+    margin-left: 20px;
+}
+.header{
+    margin-left: 160px;
+    display: inline-flex;
+    width: 795px;
+}
+.header .right_block{
+    align-self: flex-end;
+    
+}
+.right_block button{
+    background-color: rgb(92,184,92);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 250px;
+}
+.header1{
+    color: rgb(10, 10, 10);
+    padding-left: 150px;
+}
+.header1 a{
+    text-decoration: none;
+}
